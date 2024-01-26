@@ -1,5 +1,5 @@
-### Hi there 👋
-#### Hello there! My name is Jhanvi Chaudhary
+### Hello there 👋
+#### Greetings, My name is Jhanvi Chaudhary
 <!--
 **jhanvi2903/jhanvi2903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
