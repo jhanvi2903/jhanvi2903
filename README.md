@@ -13,7 +13,7 @@ ________________________________________________________________________________
 <br>
 
 * 📫 How to reach me: jhanvichaudhary32@gmail.com 
-* 💬 Ask me anything; I'll be pleased to assist. :hugs:
+* 💬 Ask me about Java or Javascript; I'll be pleased to assist. :hugs:
 
 
 
