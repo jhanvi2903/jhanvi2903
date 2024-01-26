@@ -1,3 +1,5 @@
+<img src="https://github.com/jhanvi2903/jhanvi2903/assets/70269514/5b67304a-cb42-4785-b3dd-3fd2b5822df5" width="350" height="250" img align="right" >
+
 ### Hello there 👋
 #### Greetings, My name is Jhanvi Chaudhary
 
@@ -29,4 +31,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/jhanvi2903/jhanvi2903/assets/70269514/5b67304a-cb42-4785-b3dd-3fd2b5822df5" width="400" height="300" img align="right" >
