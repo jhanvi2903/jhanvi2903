@@ -3,7 +3,7 @@
 
 <h3 align="center">Hello there👋 I'm Jhanvi Chaudhary</h3> 
 _____________________________________________________________________________________________________________________________________________
-<h4 align="center"> A passionate Software Engineer :sunglasses: </h4>
+<h4 align="center"> A passionate Software Engineer </h4>
 
 <p align="center">
 <img src="https://github.com/jhanvi2903/jhanvi2903/assets/70269514/5b67304a-cb42-4785-b3dd-3fd2b5822df5" width="400" height="250" >
@@ -12,7 +12,7 @@ ________________________________________________________________________________
 <br>
 
 * 📫 How to reach me: jhanvichaudhary32@gmail.com 
-* 💬 Ask me about Java or Javascript; I'll be pleased to assist. :hugs:
+* 💬 Ask me about Java or Javascript; I'll be pleased to assist. 
 
 
 
