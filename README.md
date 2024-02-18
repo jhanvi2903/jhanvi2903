@@ -1,8 +1,10 @@
 
 
 
-<h3 align="center">Hello there👋 I'm Jhanvi Chaudhary</h3> 
-_____________________________________________________________________________________________________________________________________________
+<h3 align="center">Hello there👋 I'm Jhanvi Chaudhary</h3>
+
+<hr>
+
 <h4 align="center"> A passionate Software Engineer </h4>
 
 <p align="center">
