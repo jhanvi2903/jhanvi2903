@@ -27,7 +27,7 @@
 <h2>🤝 Let’s Connect</h2>
 
   📫 <strong>Reach me at:</strong> jhanvichaudhary32@gmail.com  
-  💬 <strong>Curious about Java or JavaScript?</strong> I’d like to chat and help out!
+  💬 <strong>Curious about Java or JavaScript?</strong> I’d like to chat and help out! <br>
   🔭 <strong>I’m currently working on</strong>: A Machine Learning project.
 
 </div>
