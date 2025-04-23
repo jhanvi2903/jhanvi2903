@@ -13,6 +13,9 @@
 
 <br>
 
+![Profile views](https://komarev.com/ghpvc/?username=jhanvi2903&color=blueviolet&style=for-the-badge)
+
+
 * 📫 How to reach me: jhanvichaudhary32@gmail.com 
 * 💬 Ask me about Java or Javascript; I'll be pleased to assist. 
 
