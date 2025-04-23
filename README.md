@@ -3,6 +3,8 @@
 
 <h3 align="center">Hello there👋 I'm Jhanvi Chaudhary</h3>
 
+<h3 align="center">A Passionate Software Engineer with a love for solving complex problems and continuous learning.</h3>
+
 <hr>
 
 <h4 align="center"> A passionate Software Engineer </h4>
@@ -49,6 +51,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🚀 Check Out My Projects</h3>
+  <p><a href="https://github.com/jhanvi2903" target="_blank" style="text-decoration: none; color: #0366d6; font-weight: bold;">Explore my GitHub repository for exciting projects!</a></p>
 </div>
 
 
