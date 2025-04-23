@@ -23,8 +23,16 @@
 
 <br>
 
-* 📫 How to reach me: jhanvichaudhary32@gmail.com 
-* 💬 Ask me about Java or Javascript; I'll be pleased to assist. 
+
+<div align="center">
+
+<h2>🤝 Let’s Connect</h2>
+
+  📫 <strong>Reach me at:</strong> jhanvichaudhary32@gmail.com  
+  💬 <strong>Curious about Java or JavaScript?</strong> I’d like to chat and help out!
+
+</div>
+
 
 
 <br>
