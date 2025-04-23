@@ -49,7 +49,8 @@
 
 ## GitHub Stats
 
-![Jhanvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhanvi2903&show_icons=true&hide_title=true&count_private=true&theme=radical&hide=prs&langs_count=1)
+![Jhanvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhanvi2903&show_icons=true&hide_title=true&count_private=true&theme=radical&hide=prs&hide_langs=true)
+
 
 
 
