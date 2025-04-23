@@ -28,6 +28,7 @@
 
   📫 <strong>Reach me at:</strong> jhanvichaudhary32@gmail.com  
   💬 <strong>Curious about Java or JavaScript?</strong> I’d like to chat and help out!
+  🔭 **I’m currently working on**: A Machine Learning project.
 
 </div>
 
