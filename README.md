@@ -14,8 +14,13 @@
 <br>
 
 <div align="center">
-![Profile views](https://komarev.com/ghpvc/?username=jhanvi2903&color=blueviolet&style=for-the-badge)
+
+## 👀 Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=jhanvi2903&color=brightgreen&style=flat-square)
+
 </div>
+
 
 
 * 📫 How to reach me: jhanvichaudhary32@gmail.com 
