@@ -11,6 +11,7 @@
 <img src="https://github.com/jhanvi2903/jhanvi2903/assets/70269514/5b67304a-cb42-4785-b3dd-3fd2b5822df5" width="400" height="250" >
 </p>
 
+<br>
 
 <div align="left">
 
@@ -20,10 +21,8 @@
 
 </div>
 
-<br>
 
-
-<div align="center">
+<div align="left">
 
 <h2>🤝 Let’s Connect</h2>
 
@@ -33,10 +32,7 @@
 </div>
 
 
-
-<br>
-
-<div align="center">
+<div align="left">
 
   <h2>🛠️ Languages & Tools</h2>
 
