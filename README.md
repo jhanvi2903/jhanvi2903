@@ -3,8 +3,6 @@
 
 <h3 align="center">Hello there👋 I'm Jhanvi Chaudhary</h3>
 
-<h3 align="center">A Passionate Software Engineer with a love for solving complex problems and continuous learning.</h3>
-
 <hr>
 
 <h4 align="center"> A passionate Software Engineer </h4>
@@ -53,12 +51,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-  <h3>🚀 Check Out My Projects</h3>
-  <p><a href="https://github.com/jhanvi2903" target="_blank" style="text-decoration: none; color: #0366d6; font-weight: bold;">Explore my GitHub repository for exciting projects!</a></p>
-</div>
 
 
 
