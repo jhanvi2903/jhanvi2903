@@ -8,7 +8,7 @@
 <h4 align="center"> A passionate Software Engineer </h4>
 
 <p align="center">
-<img src="https://github.com/jhanvi2903/jhanvi2903/assets/70269514/5b67304a-cb42-4785-b3dd-3fd2b5822df5" width="400" height="250" >
+<img src="https://github.com/jhanvi2903/jhanvi2903/assets/70269514/5b67304a-cb42-4785-b3dd-3fd2b5822df5" width="350" height="200" >
 </p>
 
 <br>
